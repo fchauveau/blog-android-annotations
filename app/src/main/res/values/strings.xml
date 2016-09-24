@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Blog-androidannotations</string>
+    <string name="hello">Hello %1$s</string>
+</resources>
